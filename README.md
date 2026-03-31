@@ -46,4 +46,5 @@ video : https://youtu.be/N_O2X03h5uI?si=bKDvhv4eTqH4e2Fx
 <img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Certificate.pdf" />
 
 ## ✅ Checkpoint Exam
-<img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Checkpoint%20Exam.png" />
+<img width="851" height="568" alt="certificate" src="<img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/48d2f726-138d-4a0d-b87f-7782c85ebbb3" />
+" />
