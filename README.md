@@ -38,13 +38,12 @@ This repository contains my assignments, labs, projects, and certificates relate
 ### Final Project
 github : https://github.com/kittithat67/psychic-network.git     
 video : https://youtu.be/N_O2X03h5uI?si=bKDvhv4eTqH4e2Fx
+[Getting_Started_with_Cisco_Packet_Tracer_certificate_kitiyada-k-kkumail-com_e43a8ee5-d1cd-4d88-a3c9-d4b0393881b9.pdf](https://github.com/user-attachments/files/26375725/Getting_Started_with_Cisco_Packet_Tracer_certificate_kitiyada-k-kkumail-com_e43a8ee5-d1cd-4d88-a3c9-d4b0393881b9.pdf)
 
 
 ---
 
 ## 🏆 เกียรติบัตร (Certificate)
-<img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Certificate.pdf" />
+<img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Certificate.pdf](https://github.com/user-attachments/files/26375725/Getting_Started_with_Cisco_Packet_Tracer_certificate_kitiyada-k-kkumail-com_e43a8ee5-d1cd-4d88-a3c9-d4b0393881b9.pdf" />
 
-## ✅ Checkpoint Exam
-<img width="851" height="568" alt="certificate" src="<img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/48d2f726-138d-4a0d-b87f-7782c85ebbb3" />
-" />
+
